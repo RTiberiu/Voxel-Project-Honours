@@ -2,7 +2,7 @@
 Author: Tiberiu Rociu  
 LinkedIn: [@tiberiurociu](https://www.linkedin.com/in/tiberiurociu/)  
 
-![Voxel Project](https://github.com/user-attachments/assets/d5e90cc9-6594-4444-8a97-1936ea22a573)
+![Main Voxel Project Image](https://github.com/user-attachments/assets/2cea220a-a2a4-4422-84a8-98e0974f0af2)
 
 ## Overview 
 
