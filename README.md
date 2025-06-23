@@ -1,6 +1,6 @@
 # Dissertation: Exploring a Large NPC Ecosystem in a Procedurally Generated Voxel Environment 
 _Author: Tiberiu Rociu_  
-LinkedIn: [@tiberiurociu](https://www.linkedin.com/in/tiberiurociu/)  
+_LinkedIn: [@tiberiurociu](https://www.linkedin.com/in/tiberiurociu/)_  
 
 ![Landscape1](https://github.com/user-attachments/assets/42c30144-9324-42fd-b330-5c8fa351340b)
 ![Landscape2](https://github.com/user-attachments/assets/41863d41-d1df-4fcc-a2bc-b357703a2c78)
